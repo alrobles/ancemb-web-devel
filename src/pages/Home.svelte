@@ -91,8 +91,6 @@
       control stratum, not an independent accuracy measure. Filter analyses to
       <span class="mono">oracle_class ∈ simulated_* · experimental_*</span>
       ({independent.toLocaleString()} nodes) for independent-truth claims.
-      This instance is a read-only mirror of the KU HPC
-      <span class="mono">db_mvp</span> bundle.
     </p>
   </div></div>
 </div>
